@@ -32,3 +32,11 @@ This is a simple language translator web application built using pure HTML, CSS,
 3.  **📂 Upload a Document:** Click the "Choose File" button to select a supported document (PDF, DOCX, TXT). The text will be automatically extracted and translated.
 4.  **💾 Download Translation:** Click the "Download" button to save the translated text as a `.txt` file.
 
+
+<img width="1706" height="875" alt="Screenshot 2025-08-08 230509" src="https://github.com/user-attachments/assets/fc1fd089-17d4-42a8-949d-b3e36cfc437e" />
+<img width="1664" height="869" alt="Screenshot 2025-08-08 230516" src="https://github.com/user-attachments/assets/0a61a785-3cfd-465e-a953-69b093a3100e" />
+
+
+
+
+
